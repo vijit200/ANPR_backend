@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+artifacts/*
+*.zip
+test/*
+train/*
+*.yaml
+*.jpg
+*.png
+data/*.jpg
+.vercel
